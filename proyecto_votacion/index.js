@@ -78,7 +78,7 @@ class Question {
       userAnswer: "O' conner", "Roman" : any // Respuesta incorrecta
     },
     {
-      question: "¿Cuál es el mejor jugador de football del mundo?",
+      question: "¿Cuál es el mejor jugador de football del mundo ?",
       options: ["Pele", "Maradona", "Cristiano"],
       correctAnswer: "Pele",
       userAnswer: "Pele" // Respuesta correcta
